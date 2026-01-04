@@ -18,7 +18,14 @@ import {
 // Lazy load the heavy canvas editor
 const EngraveEditor = lazy(() => import('@/components/EngraveEditor'));
 
-type Step = 'edit' | 'checkout';
+type Step = 'edit' | 'review' | 'checkout';
+
+const INSPIRATION_EXAMPLES = [
+    { id: 1, title: "Wedding Monogram", description: "Elegant initials with date", icon: "💍" },
+    { id: 2, title: "Team Spirit", description: "Sports team name & number", icon: "🏆" },
+    { id: 3, title: "Corporate Brand", description: "Company logo & tagline", icon: "💼" },
+    { id: 4, title: "Personal Quote", description: "Favorite saying or motto", icon: "✨" },
+];
 
 export default function ConfiguratorClient() {
     // Product selection
@@ -31,6 +38,10 @@ export default function ConfiguratorClient() {
     const [step, setStep] = useState<Step>('edit');
     const [designSVG, setDesignSVG] = useState<string>('');
     const [hasDesign, setHasDesign] = useState(false);
+
+    // Undo/Redo state
+    const [history, setHistory] = useState<string[]>([]);
+    const [historyIndex, setHistoryIndex] = useState(-1);
 
     // Get current variant
     const variant = useMemo(() => {
@@ -57,17 +68,38 @@ export default function ConfiguratorClient() {
 
     const handleExportSVG = useCallback((svg: string) => {
         setDesignSVG(svg);
-    }, []);
+        // Add to history
+        setHistory(prev => [...prev.slice(0, historyIndex + 1), svg]);
+        setHistoryIndex(prev => prev + 1);
+    }, [historyIndex]);
 
     const handleDesignChange = useCallback((hasContent: boolean) => {
         setHasDesign(hasContent);
     }, []);
 
-    const handleProceedToCheckout = () => {
+    const handleUndo = useCallback(() => {
+        if (historyIndex > 0) {
+            setHistoryIndex(prev => prev - 1);
+            setDesignSVG(history[historyIndex - 1]);
+        }
+    }, [historyIndex, history]);
+
+    const handleRedo = useCallback(() => {
+        if (historyIndex < history.length - 1) {
+            setHistoryIndex(prev => prev + 1);
+            setDesignSVG(history[historyIndex + 1]);
+        }
+    }, [historyIndex, history]);
+
+    const handleProceedToReview = () => {
         if (!hasDesign) {
             alert('Please add a design before proceeding.');
             return;
         }
+        setStep('review');
+    };
+
+    const handleProceedToCheckout = () => {
         setStep('checkout');
     };
 
@@ -84,6 +116,12 @@ export default function ConfiguratorClient() {
         document.body.removeChild(link);
         URL.revokeObjectURL(url);
     };
+
+    const steps = [
+        { id: 'edit', label: 'Design', icon: '✏️' },
+        { id: 'review', label: 'Review', icon: '👁️' },
+        { id: 'checkout', label: 'Checkout', icon: '💳' },
+    ] as const;
 
     return (
         // Use dvh (dynamic viewport height) for better mobile support
@@ -166,11 +204,103 @@ export default function ConfiguratorClient() {
 
             {/* Main Content Area - Responsive Flex */}
             <main className="flex-1 flex flex-col pt-[calc(3.5rem+64px)] pb-[80px] lg:pb-0 h-full overflow-hidden">
-                {step === 'edit' ? (
-                    <div className="flex-1 flex flex-col relative w-full h-full max-w-6xl mx-auto px-0 lg:px-4 lg:py-4">
+                {/* Progress Indicator */}
+                <div className="bg-surface-alt border-b border-border px-4 py-3">
+                    <div className="max-w-6xl mx-auto flex items-center justify-center gap-4 sm:gap-8">
+                        {steps.map((stepItem, index) => (
+                            <div
+                                key={stepItem.id}
+                                className={`progress-step flex items-center gap-2 ${index < steps.length - 1 ? 'flex-1' : ''} ${
+                                    step === stepItem.id ? 'active' : ''
+                                } ${
+                                    steps.findIndex(s => s.id === step) > index ? 'completed' : ''
+                                }`}
+                            >
+                                <div className={`step-circle w-8 h-8 sm:w-10 sm:h-10 rounded-full border-2 flex items-center justify-center text-sm sm:text-base transition-all duration-300 ${
+                                    step === stepItem.id
+                                        ? 'border-accent bg-accent text-white'
+                                        : steps.findIndex(s => s.id === step) > index
+                                        ? 'border-accent bg-accent text-white'
+                                        : 'border-border bg-surface text-text-muted'
+                                }`}>
+                                    {steps.findIndex(s => s.id === step) > index ? '✓' : stepItem.icon}
+                                </div>
+                                <span className={`text-xs sm:text-sm font-medium transition-colors duration-300 ${
+                                    step === stepItem.id
+                                        ? 'text-accent'
+                                        : steps.findIndex(s => s.id === step) > index
+                                        ? 'text-accent'
+                                        : 'text-text-muted'
+                                }`}>
+                                    {stepItem.label}
+                                </span>
+                            </div>
+                        ))}
+                    </div>
+                </div>
 
-                        {/* Canvas Editor Container - Flex grow to fill space */}
-                        <div className="flex-1 relative w-full h-full overflow-hidden bg-[#1a1a1a] lg:shadow-xl lg:border lg:border-border/5">
+                {step === 'edit' ? (
+                    <div className="flex-1 flex flex-col lg:flex-row relative w-full h-full max-w-7xl mx-auto">
+                        {/* Inspiration Sidebar - Desktop */}
+                        <aside className="hidden lg:block w-72 bg-surface border-r border-border p-6 overflow-y-auto">
+                            <h3 className="font-serif text-lg text-text-primary mb-4 italic">Design Inspiration</h3>
+                            <p className="text-sm text-text-muted mb-6">Get inspired with popular design ideas</p>
+                            <div className="space-y-3">
+                                {INSPIRATION_EXAMPLES.map((example) => (
+                                    <button
+                                        key={example.id}
+                                        className="w-full p-4 text-left border border-border rounded-lg hover:border-accent hover:bg-accent-subtle/30 transition-all duration-300 group"
+                                    >
+                                        <div className="flex items-start gap-3">
+                                            <span className="text-2xl">{example.icon}</span>
+                                            <div>
+                                                <h4 className="font-semibold text-text-primary text-sm group-hover:text-accent transition-colors">
+                                                    {example.title}
+                                                </h4>
+                                                <p className="text-xs text-text-muted mt-1">{example.description}</p>
+                                            </div>
+                                        </div>
+                                    </button>
+                                ))}
+                            </div>
+
+                            {/* Tips Section */}
+                            <div className="mt-8 p-4 bg-accent-subtle/30 rounded-lg border border-accent/20">
+                                <h4 className="font-semibold text-text-primary text-sm mb-2">💡 Pro Tips</h4>
+                                <ul className="text-xs text-text-muted space-y-2">
+                                    <li>• Use high-contrast colors for better visibility</li>
+                                    <li>• Keep text under 20 characters for best results</li>
+                                    <li>• Test different fonts to find your style</li>
+                                </ul>
+                            </div>
+                        </aside>
+
+                        {/* Canvas Editor Container */}
+                        <div className="flex-1 relative w-full h-full overflow-hidden bg-[#1a1a1a]">
+                            {/* Undo/Redo Controls */}
+                            <div className="absolute top-4 left-4 z-10 flex gap-2">
+                                <button
+                                    onClick={handleUndo}
+                                    disabled={historyIndex <= 0}
+                                    className="p-2 bg-surface/90 backdrop-blur rounded-lg border border-border hover:border-accent disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 haptic-feedback"
+                                    aria-label="Undo"
+                                >
+                                    <svg className="w-5 h-5 text-text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h10a8 8 0 018 8v2M3 10l6 6m-6-6l6-6" />
+                                    </svg>
+                                </button>
+                                <button
+                                    onClick={handleRedo}
+                                    disabled={historyIndex >= history.length - 1}
+                                    className="p-2 bg-surface/90 backdrop-blur rounded-lg border border-border hover:border-accent disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 haptic-feedback"
+                                    aria-label="Redo"
+                                >
+                                    <svg className="w-5 h-5 text-text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 10h-10a8 8 0 00-8 8v2M21 10l-6 6m6-6l-6-6" />
+                                    </svg>
+                                </button>
+                            </div>
+
                             <Suspense
                                 fallback={
                                     <div className="absolute inset-0 flex items-center justify-center bg-background">
@@ -185,21 +315,20 @@ export default function ConfiguratorClient() {
                                     key={`${selectedSize.id}-${selectedColor.id}`}
                                     productImage={variant?.blankImage || `/products/LWB102_clean.png`}
                                     canvasConfig={canvasConfig}
-                                    // engravingZone passed implicitly via canvasConfig logic now
                                     onExportSVG={handleExportSVG}
                                     onDesignChange={handleDesignChange}
                                 />
                             </Suspense>
                         </div>
                     </div>
-                ) : (
-                    /* Checkout View - Scrollable */
+                ) : step === 'review' ? (
+                    /* Review View - Scrollable */
                     <div className="flex-1 overflow-y-auto px-4 py-8">
                         <div className="max-w-xl mx-auto space-y-8 pb-24">
                             {/* Preview */}
-                            <div className="bg-white p-8 shadow-sm border border-border/50">
+                            <div className="bg-white p-8 shadow-sm border border-border/50 card-luxury">
                                 <h3 className="text-lg font-serif text-primary mb-6 text-center italic">Your Masterpiece</h3>
-                                <div className="relative aspect-square bg-[#f9f9f9] overflow-hidden border border-border/10 mb-6">
+                                <div className="relative aspect-square bg-[#f9f9f9] overflow-hidden border border-border/10 mb-6 image-zoom-container">
                                     <Image
                                         src={variant?.blankImage || '/products/LWB102_clean.png'}
                                         alt="Product preview"
@@ -217,7 +346,7 @@ export default function ConfiguratorClient() {
                             </div>
 
                             {/* Details & Pricing */}
-                            <div className="bg-white p-8 shadow-sm border border-border/50 space-y-6">
+                            <div className="bg-white p-8 shadow-sm border border-border/50 space-y-6 card-luxury">
                                 <h3 className="text-lg font-serif text-primary border-b border-border pb-4">Order Summary</h3>
 
                                 <div className="space-y-3 text-sm">
@@ -237,14 +366,14 @@ export default function ConfiguratorClient() {
                                         <div className="flex items-center border border-border rounded-sm">
                                             <button
                                                 onClick={() => setQuantity(Math.max(1, quantity - 1))}
-                                                className="w-10 h-10 flex items-center justify-center hover:bg-surface-alt transition text-text-muted"
+                                                className="w-10 h-10 flex items-center justify-center hover:bg-surface-alt transition text-text-muted haptic-feedback"
                                             >
                                                 −
                                             </button>
                                             <span className="w-12 text-center font-serif text-primary">{quantity}</span>
                                             <button
                                                 onClick={() => setQuantity(quantity + 1)}
-                                                className="w-10 h-10 flex items-center justify-center hover:bg-surface-alt transition text-text-muted"
+                                                className="w-10 h-10 flex items-center justify-center hover:bg-surface-alt transition text-text-muted haptic-feedback"
                                             >
                                                 +
                                             </button>
@@ -270,6 +399,21 @@ export default function ConfiguratorClient() {
                             </div>
                         </div>
                     </div>
+                ) : (
+                    /* Checkout View - Placeholder */
+                    <div className="flex-1 overflow-y-auto px-4 py-8">
+                        <div className="max-w-xl mx-auto text-center py-20">
+                            <div className="text-6xl mb-6">💳</div>
+                            <h2 className="text-2xl font-serif text-primary mb-4">Secure Checkout</h2>
+                            <p className="text-text-muted mb-8">Stripe checkout integration coming soon!</p>
+                            <button
+                                onClick={() => setStep('review')}
+                                className="btn-secondary px-8 py-3"
+                            >
+                                ← Back to Review
+                            </button>
+                        </div>
+                    </div>
                 )}
             </main>
 
@@ -278,30 +422,37 @@ export default function ConfiguratorClient() {
                 <div className="max-w-6xl mx-auto p-4 lg:p-6">
                     {step === 'edit' ? (
                         <button
-                            onClick={handleProceedToCheckout}
+                            onClick={handleProceedToReview}
                             disabled={!hasDesign}
-                            className="w-full py-4 bg-primary text-white font-serif text-xl italic hover:bg-primary/90 transition shadow-xl disabled:opacity-50 disabled:grayscale flex items-center justify-center gap-3 group"
+                            className="w-full py-4 bg-accent text-white font-serif text-xl italic hover:bg-accent-hover transition-all duration-300 shadow-lg disabled:opacity-50 disabled:grayscale flex items-center justify-center gap-3 group btn-magnetic btn-ripple"
                         >
                             <span className="group-hover:translate-x-1 transition-transform">Proceed to Review</span>
                             <span className="bg-white/10 px-3 py-1 text-sm not-italic font-sans tracking-wide">
                                 ${totalPrice.toFixed(2)}
                             </span>
                         </button>
-                    ) : (
+                    ) : step === 'review' ? (
                         <div className="flex gap-4">
                             <button
                                 onClick={() => setStep('edit')}
-                                className="flex-1 py-4 border border-primary text-primary font-sans uppercase tracking-widest text-xs hover:bg-primary hover:text-white transition"
+                                className="flex-1 py-4 border-2 border-accent/30 text-accent font-sans uppercase tracking-widest text-xs hover:bg-accent hover:text-white transition-all duration-300 haptic-feedback"
                             >
                                 ← Edit Design
                             </button>
                             <button
-                                onClick={() => alert('Stripe checkout coming soon!')}
-                                className="flex-[2] py-4 bg-accent text-white font-serif text-xl italic hover:bg-accent-hover transition shadow-lg"
+                                onClick={handleProceedToCheckout}
+                                className="flex-[2] py-4 bg-accent text-white font-serif text-xl italic hover:bg-accent-hover transition-all duration-300 shadow-lg btn-magnetic btn-ripple"
                             >
-                                Secure Checkout
+                                Proceed to Checkout
                             </button>
                         </div>
+                    ) : (
+                        <button
+                            onClick={() => setStep('review')}
+                            className="w-full py-4 border-2 border-accent/30 text-accent font-sans uppercase tracking-widest text-xs hover:bg-accent hover:text-white transition-all duration-300 haptic-feedback"
+                        >
+                            ← Back to Review
+                        </button>
                     )}
                 </div>
             </footer>

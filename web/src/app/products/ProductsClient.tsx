@@ -70,62 +70,67 @@ export default function ProductsClient() {
                     <nav className="flex items-center gap-2 text-sm text-text-muted py-4 sm:py-6">
                         <Link href="/" className="hover:text-accent transition-colors">Home</Link>
                         <span>/</span>
-                        <span className="text-text-primary">Products</span>
+                        <span className="text-text-primary">Collections</span>
                     </nav>
                 </div>
             </div>
 
-            {/* Product Hero */}
+            {/* Hero Section */}
             <section className="px-4 sm:px-6 lg:px-12 pb-12 sm:pb-16">
                 <div className="max-w-7xl mx-auto">
                     <div className="grid lg:grid-cols-2 gap-8 sm:gap-12 items-center">
                         {/* Hero Image */}
-                        <div className="aspect-square relative bg-surface rounded-2xl overflow-hidden border border-border">
+                        <div className="aspect-square relative bg-surface-alt rounded-2xl overflow-hidden border-2 border-border/50 image-zoom-container card-luxury">
+                            <div className="absolute inset-0 bg-gradient-to-br from-accent/5 to-transparent" />
                             <Image
                                 src={`/products/${heroSku}_main.png`}
                                 alt={product.name}
                                 fill
-                                className="object-contain p-8"
+                                className="object-contain p-12 relative z-10"
                                 priority
                             />
                         </div>
 
                         {/* Product Info */}
-                        <div>
-                            <span className="text-accent text-sm font-medium tracking-widest uppercase">
+                        <div className="space-y-6">
+                            <span className="text-accent text-sm font-medium tracking-[0.2em] uppercase reveal-on-scroll">
                                 {product.brand}
                             </span>
 
-                            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold font-[var(--font-outfit)] mt-2 text-text-primary">
+                            <h1 className="text-4xl sm:text-5xl md:text-6xl font-serif text-text-primary leading-tight reveal-on-scroll delay-100">
                                 {product.name}
                             </h1>
 
-                            <p className="text-text-secondary mt-4 text-base sm:text-lg">
+                            <div className="decorative-line-left reveal-on-scroll delay-200" />
+
+                            <p className="text-text-secondary text-lg leading-relaxed reveal-on-scroll delay-300">
                                 {product.description}
                             </p>
 
                             {/* Features */}
-                            <ul className="mt-6 space-y-2">
+                            <div className="space-y-3 reveal-on-scroll delay-400">
                                 {product.features.map((feature, i) => (
-                                    <li key={i} className="flex items-center gap-2 text-text-secondary">
-                                        <svg className="w-5 h-5 text-accent flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                                        </svg>
-                                        {feature}
-                                    </li>
+                                    <div key={i} className="flex items-center gap-3 text-text-secondary">
+                                        <div className="w-6 h-6 rounded-full bg-accent/10 flex items-center justify-center">
+                                            <svg className="w-4 h-4 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                                            </svg>
+                                        </div>
+                                        <span className="font-light">{feature}</span>
+                                    </div>
                                 ))}
-                            </ul>
+                            </div>
 
                             {/* Price Range */}
-                            <div className="mt-8 p-6 bg-surface rounded-xl border border-border">
-                                <p className="text-sm text-text-muted mb-2">Starting at</p>
-                                <div className="flex items-baseline gap-2">
-                                    <span className="text-3xl font-bold text-accent">
+                            <div className="mt-8 p-6 bg-surface rounded-xl border border-border/50 shadow-sm reveal-on-scroll delay-500">
+                                <p className="text-sm text-text-muted mb-2 uppercase tracking-wider">Starting at</p>
+                                <div className="flex items-baseline gap-3">
+                                    <span className="text-4xl font-serif text-accent">
                                         ${SIZES[0].basePrice.toFixed(2)}
                                     </span>
                                     <span className="text-text-muted">+ $5.00 engraving</span>
                                 </div>
-                                <p className="text-sm text-text-muted mt-2">
+                                <p className="text-sm text-text-muted mt-3 italic">
                                     Bulk discounts available for 10+ items
                                 </p>
                             </div>
@@ -133,7 +138,7 @@ export default function ProductsClient() {
                             {/* CTA */}
                             <Link
                                 href="/customize"
-                                className="btn-primary text-lg mt-8 inline-block"
+                                className="btn-primary btn-magnetic btn-ripple bg-accent text-white px-10 py-4 rounded-sm font-serif text-lg hover:bg-accent-hover transition-all duration-500 ease-out uppercase tracking-widest inline-block shadow-lg shadow-accent/25 reveal-on-scroll delay-500"
                             >
                                 Start Customizing →
                             </Link>
@@ -143,15 +148,16 @@ export default function ProductsClient() {
             </section>
 
             {/* Size Options */}
-            <section className="py-24 px-6 sm:px-8 lg:px-12 bg-surface-alt">
+            <section className="py-24 px-6 sm:px-8 lg:px-12 bg-surface-alt gradient-subtle">
                 <div className="max-w-7xl mx-auto">
-                    <div className="text-center mb-12">
-                        <span className="text-accent text-sm font-medium tracking-widest uppercase">
+                    <div className="text-center mb-12 reveal-on-scroll">
+                        <span className="text-accent text-sm font-medium tracking-[0.2em] uppercase">
                             Choose Your Size
                         </span>
-                        <h2 className="text-3xl font-bold font-[var(--font-outfit)] mt-4 text-text-primary">
+                        <h2 className="text-3xl md:text-4xl font-serif text-text-primary mt-4">
                             4 Sizes Available
                         </h2>
+                        <div className="decorative-line mt-6" />
                     </div>
 
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6">
@@ -160,39 +166,59 @@ export default function ProductsClient() {
                             const sizeCode = size.id === "12oz" ? "05" : size.id === "20oz" ? "10" : size.id === "32oz" ? "20" : "30";
                             const sku = `LWB${sizeCode}2`; // Black variants
                             const isPopular = size.id === "20oz";
+                            const isNew = size.id === "32oz";
 
                             return (
                                 <Link
                                     key={size.id}
                                     href={`/customize?size=${size.id}`}
-                                    className={`card p-4 sm:p-6 text-center group relative transition-all duration-300 hover:shadow-xl hover:shadow-accent/10 hover:-translate-y-1 ${isPopular ? 'ring-2 ring-accent/30' : ''
-                                        }`}
+                                    className={`card-luxury p-4 sm:p-6 text-center group relative transition-all duration-500 border ${isPopular ? 'border-accent/50 ring-2 ring-accent/20' : 'border-border/50'
+                                        } reveal-on-scroll`}
+                                    style={{ animationDelay: `${SIZES.indexOf(size) * 100}ms` }}
                                 >
-                                    {/* Popular Badge */}
-                                    {isPopular && (
-                                        <div className="absolute -top-2 left-1/2 -translate-x-1/2 z-10">
-                                            <span className="bg-accent text-white text-xs font-medium px-3 py-1 rounded-full shadow-md">
+                                    {/* Badges */}
+                                    <div className="absolute top-3 left-3 z-10 flex flex-col gap-1">
+                                        {isPopular && (
+                                            <span className="bg-accent text-white text-xs font-medium px-2.5 py-1 rounded-full shadow-md">
                                                 Popular
                                             </span>
-                                        </div>
-                                    )}
-                                    <div className="aspect-square relative bg-surface-alt rounded-xl overflow-hidden mb-3 sm:mb-4 group-hover:bg-accent/5 transition-colors">
+                                        )}
+                                        {isNew && (
+                                            <span className="bg-accent-secondary text-white text-xs font-medium px-2.5 py-1 rounded-full shadow-md">
+                                                New
+                                            </span>
+                                        )}
+                                    </div>
+
+                                    {/* Image Container */}
+                                    <div className="aspect-square relative bg-surface rounded-xl overflow-hidden mb-3 sm:mb-4 group-hover:bg-accent/5 transition-colors duration-300 image-zoom-container">
                                         <Image
                                             src={`/products/${sku}_main.png`}
                                             alt={size.name}
                                             fill
-                                            className="object-contain p-3 sm:p-4 group-hover:scale-110 transition-transform duration-300"
+                                            className="object-contain p-3 sm:p-4 transition-transform duration-700"
                                         />
+                                        {/* Quick Customize Overlay */}
+                                        <div className="absolute inset-0 bg-black/30 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+                                            <span className="text-white font-serif text-sm uppercase tracking-wider bg-accent px-4 py-2 rounded-full transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300">
+                                                Customize
+                                            </span>
+                                        </div>
                                     </div>
-                                    <h3 className="text-lg sm:text-xl font-bold text-text-primary group-hover:text-accent transition">
+
+                                    {/* Content */}
+                                    <h3 className="text-lg sm:text-xl font-bold text-text-primary group-hover:text-accent transition-colors duration-300 font-serif">
                                         {size.name}
                                     </h3>
                                     <p className="text-xs sm:text-sm text-text-muted mt-1">{size.capacity}</p>
-                                    <p className="text-accent font-bold mt-2 text-lg sm:text-xl">
-                                        ${size.basePrice.toFixed(2)}
-                                    </p>
-                                    <p className="text-xs text-text-muted mt-1">
-                                        Engrave area: {size.engravingZone.width}&quot; × {size.engravingZone.height}&quot;
+                                    <div className="mt-2 flex items-center justify-center gap-2">
+                                        <p className="text-accent font-bold text-lg sm:text-xl font-serif">
+                                            ${size.basePrice.toFixed(2)}
+                                        </p>
+                                        <span className="text-xs text-text-muted">+ engraving</span>
+                                    </div>
+                                    <p className="text-xs text-text-muted mt-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                                        Engrave area: {size.engravingZone.width}" × {size.engravingZone.height}"
                                     </p>
                                 </Link>
                             );
@@ -204,20 +230,21 @@ export default function ProductsClient() {
             {/* Color Options */}
             <section className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-12">
                 <div className="max-w-7xl mx-auto">
-                    <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-8 sm:mb-12">
+                    <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-8 sm:mb-12 reveal-on-scroll">
                         <div>
-                            <span className="text-accent text-sm font-medium tracking-widest uppercase">
+                            <span className="text-accent text-sm font-medium tracking-[0.2em] uppercase">
                                 Pick Your Color
                             </span>
-                            <h2 className="text-2xl sm:text-3xl font-bold font-[var(--font-outfit)] mt-4 text-text-primary">
+                            <h2 className="text-2xl sm:text-3xl md:text-4xl font-serif text-text-primary mt-4">
                                 {sortedColors.length} Color{sortedColors.length !== 1 ? 's' : ''} Available
                             </h2>
+                            <div className="decorative-line-left mt-4" />
                         </div>
                         <div className="flex items-center gap-4">
                             {hasActiveFilters && (
                                 <button
                                     onClick={clearFilters}
-                                    className="text-sm text-accent hover:text-accent/80 transition-colors"
+                                    className="text-sm text-accent hover:text-accent/80 transition-colors font-medium"
                                 >
                                     Clear Filters
                                 </button>
@@ -226,7 +253,7 @@ export default function ProductsClient() {
                             <select
                                 value={sortBy}
                                 onChange={(e) => setSortBy(e.target.value as "name" | "price-asc" | "price-desc")}
-                                className="px-4 py-2 border border-border rounded-lg text-sm text-text-primary bg-surface focus:border-accent focus:outline-none"
+                                className="px-4 py-2 border border-border rounded-lg text-sm text-text-primary bg-surface focus:border-accent focus:outline-none transition-colors"
                             >
                                 <option value="name">Sort by Name</option>
                                 <option value="price-asc">Price: Low to High</option>
@@ -236,12 +263,12 @@ export default function ProductsClient() {
                     </div>
 
                     {/* Size Filter */}
-                    <div className="mb-8">
-                        <h3 className="text-sm font-semibold text-text-primary mb-3">Filter by Size</h3>
+                    <div className="mb-8 reveal-on-scroll delay-100">
+                        <h3 className="text-sm font-semibold text-text-primary mb-3 uppercase tracking-wider">Filter by Size</h3>
                         <div className="flex flex-wrap gap-2">
                             <button
                                 onClick={() => setSelectedSize(null)}
-                                className={`px-4 py-2 rounded-lg border transition text-sm ${!selectedSize
+                                className={`px-4 py-2 rounded-lg border transition text-sm font-medium ${!selectedSize
                                     ? "border-accent bg-accent-subtle text-accent"
                                     : "border-border hover:border-accent/50 text-text-primary"
                                     }`}
@@ -252,10 +279,10 @@ export default function ProductsClient() {
                                 <button
                                     key={size.id}
                                     onClick={() => setSelectedSize(size.id)}
-                                    className={`px-4 py-2 rounded-lg border transition text-sm ${selectedSize === size.id
+                                    className={`px-4 py-2 rounded-lg border transition text-sm font-medium ${selectedSize === size.id
                                         ? "border-accent bg-accent-subtle text-accent"
                                         : "border-border hover:border-accent/50 text-text-primary"
-                                        }`}
+                                    }`}
                                 >
                                     {size.name}
                                 </button>
@@ -264,7 +291,7 @@ export default function ProductsClient() {
                     </div>
 
                     {/* Color Grid */}
-                    <div className="grid grid-cols-3 sm:grid-cols-6 md:grid-cols-9 gap-3 sm:gap-4 max-w-4xl mx-auto">
+                    <div className="grid grid-cols-3 sm:grid-cols-6 md:grid-cols-9 gap-3 sm:gap-4 max-w-4xl mx-auto reveal-on-scroll delay-200">
                         {sortedColors.map((color, index) => {
                             // Find the actual index in COLORS array for SKU generation
                             const colorIndex = COLORS.findIndex(c => c.id === color.id);
@@ -278,18 +305,21 @@ export default function ProductsClient() {
                                 <button
                                     key={color.id}
                                     onClick={() => variant && setQuickViewVariant(variant)}
-                                    className="text-center group"
+                                    className="text-center group haptic-feedback"
                                     title={`${color.name} - Click for quick view`}
+                                    aria-label={`View ${color.name} color`}
                                 >
-                                    <div className="aspect-square relative bg-surface rounded-xl overflow-hidden mb-2 border border-border hover:ring-2 hover:ring-accent transition">
+                                    <div className="aspect-square relative bg-surface rounded-xl overflow-hidden mb-2 border-2 border-border/50 hover:border-accent transition-all duration-300 image-zoom-container shadow-sm hover:shadow-lg">
                                         <Image
                                             src={`/products/${sku}_main.png`}
                                             alt={color.name}
                                             fill
-                                            className="object-contain p-2 group-hover:scale-105 transition duration-300"
+                                            className="object-contain p-2 transition-transform duration-500"
                                         />
+                                        {/* Hover overlay */}
+                                        <div className="absolute inset-0 bg-accent/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                                     </div>
-                                    <p className="text-xs text-text-muted group-hover:text-accent transition truncate">
+                                    <p className="text-xs text-text-muted group-hover:text-accent transition-colors duration-300 truncate font-medium">
                                         {color.name}
                                     </p>
                                 </button>
@@ -302,7 +332,7 @@ export default function ProductsClient() {
                             <p className="text-text-muted">No colors available for the selected filters.</p>
                             <button
                                 onClick={clearFilters}
-                                className="mt-4 text-accent hover:text-accent/80"
+                                className="mt-4 text-accent hover:text-accent/80 font-medium"
                             >
                                 Clear Filters
                             </button>
@@ -312,15 +342,20 @@ export default function ProductsClient() {
             </section>
 
             {/* CTA Section */}
-            <section className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-12 bg-gradient-to-br from-accent/10 to-accent-subtle/30">
-                <div className="max-w-3xl mx-auto text-center">
-                    <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold font-[var(--font-outfit)] mb-4 sm:mb-6 text-text-primary">
-                        Ready to Create Your Custom Bottle?
+            <section className="py-20 sm:py-24 lg:py-32 px-4 sm:px-6 lg:px-12 bg-gradient-to-br from-accent/10 to-accent-subtle/30">
+                <div className="max-w-3xl mx-auto text-center reveal-on-scroll">
+                    <span className="text-accent text-sm font-medium tracking-[0.2em] uppercase">
+                        Ready to Create?
+                    </span>
+                    <h2 className="text-2xl sm:text-3xl md:text-4xl font-serif text-text-primary mb-4 sm:mb-6 mt-4">
+                        Your Custom Piece Awaits
                     </h2>
-                    <p className="text-base sm:text-lg text-text-secondary mb-8 sm:mb-10 px-4">
+                    <div className="decorative-line mx-auto mb-8" />
+                    <p className="text-base sm:text-lg text-text-secondary mb-8 sm:mb-10 leading-relaxed px-4">
                         Choose your size and color, add your text, and preview your design in real-time.
+                        Let us help you craft something truly special.
                     </p>
-                    <Link href="/customize" className="btn-primary text-base sm:text-lg">
+                    <Link href="/customize" className="btn-primary btn-magnetic btn-ripple bg-accent text-white text-base sm:text-lg px-8 py-4 rounded-sm font-serif uppercase tracking-widest shadow-lg shadow-accent/25 inline-block">
                         Start Customizing →
                     </Link>
                 </div>
