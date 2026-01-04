@@ -30,11 +30,14 @@ yarn-error.log*
 # Vercel
 .vercel
 
-# Project specific large folders (Scraped images)
+# Project specific large folders (Scraped images and data)
 scraped_images/
 scraped_images_all/
 scraped_images_blank/
 scraped_images_gallery/
+organized_products/
+scraped_data/
+Drinkware_Organized/
 
 # OS files
 .DS_Store
