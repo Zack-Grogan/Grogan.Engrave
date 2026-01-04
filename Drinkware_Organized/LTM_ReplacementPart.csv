@@ -1,0 +1,13 @@
+SKU,NAME,CASE QTY,PRICE EACH,PRICE BREAK 1,PRICE BREAK 2,PRICE BREAK 3,PRICE BREAK 4,PRICE BREAK 5,CATALOG,PAGES,PREVIOUS PRICE,PREVIOUS PRICE BREAK 1,PREVIOUS PRICE BREAK 2,PREVIOUS PRICE BREAK 3,PREVIOUS PRICE BREAK 4,PREVIOUS PRICE BREAK 5,LAST PRICE CHANGE DATE,Verification_Status,Product_Category,Related_SKU_Prefix
+LTM12L,"Slider Lid for 12 & 16 oz. Polar Camel Stemless Tumblers, 14 oz. Pilsner, or 22 oz. Skinny Tumblers",24,2.2,1.69,1.6,1.52,0,0,SUBCAT25,21         ,2.1,1.61,1.52,1.45,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTM20L,"Slider Lid for 10, 15, 16, 20, Polar Camel Tumblers or 20 oz.              Pilsners",24,2.3,1.82,1.74,1.66,0,0,SUBCAT25,21         ,2.2,1.73,1.66,1.58,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTM20MG,"Magnetic Lid for 10, 15, 16, and 20 oz. Polar Camel Tumblers, 20 oz. Pilsners",24,6.35,5.35,5.1,4.85,0,0,SUBCAT25,21         ,6.05,5.1,4.85,4.6,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTM20SN,"Snap Lid for 10, 15, 16, 20 oz. Polar Camel Tumblers or 20 oz. Pilsners",24,3.85,3.1,2.95,2.85,0,0,SUBCAT25,21         ,3.65,2.95,2.8,2.7,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTM30L,"Slider Lid for 30 oz. Polar Camel Tumblers, 32 & 40 oz. Travel Mugs",24,2.55,2.05,1.87,1.79,0,0,SUBCAT25,21         ,2.45,1.97,1.78,1.7,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTM30MG,Magnetic Lid for 30 oz. Polar Camel Tumblers and 40 oz. Travel Mugs,24,7.35,6.25,6,5.7,0,0,SUBCAT25,21         ,7,5.95,5.7,5.45,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTM30SN,Snap Lid for 30 oz. Polar Camel Tumblers,24,4.5,3.7,3.5,3.4,0,0,SUBCAT25,21         ,4.3,3.5,3.35,3.25,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTM30SNA,"Snap Lid for 30 oz. Polar Camel Tumbler, 32 oz. and 40 oz. Polar Camel Travel Mugs",12,4.5,3.7,3.5,3.4,0,0,CATALOG24,27         ,4.3,3.5,3.35,3.25,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTMR12,"Replacement Lid for Polar Camel 12 & 16 oz. Stemless, 14 oz. Pilsner, or 22 oz. Skinny",1,1.26,1.26,1.26,1.26,0,0,CATALOG24,56         ,1.2,1.2,1.2,1.2,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTMR20,"Replacement Lid for Polar Camel 10, 15, 16, and 20 oz. Tumblers",1,1.26,1.26,1.26,1.26,0,0,CATALOG24,56         ,1.2,1.2,1.2,1.2,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTMR30,Replacement Lid for Polar Camel 30 oz. Tumblers and 40 oz. Travel Mugs,1,1.37,1.37,1.37,1.37,0,0,CATALOG24,56         ,1.3,1.3,1.3,1.3,0,0,07/21/2025,Confirmed,Replacement Part,LTM
+LTMSTRW40,Replacement Straw for 40 oz. Polar Camel Travel Mug,12,0.33,0.33,0,0,0,0,CATALOG24,27         ,0.31,0.31,0,0,0,0,07/21/2025,Confirmed,Replacement Part,LTM

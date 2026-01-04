@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Production
+build/
+dist/
+
+# Environment files
+.env*
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Vercel
+.vercel
+
+# Project specific large folders (Scraped images)
+scraped_images/
+scraped_images_all/
+scraped_images_blank/
+scraped_images_gallery/
+
+# OS files
+.DS_Store
+Thumbs.db

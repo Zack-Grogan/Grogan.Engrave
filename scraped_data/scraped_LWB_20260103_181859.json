@@ -1,0 +1,782 @@
+[
+  {
+    "sku": "LWB051",
+    "name": "Polar Camel 12 oz. Stainless Steel Water Bottle",
+    "description": "SKU:&nbsp;LWB051 - Polar Camel 12 oz. Stainless Steel Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916483/products/images/large/LWB051--d993fbbb.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:06.835852",
+    "error": ""
+  },
+  {
+    "sku": "LWB052",
+    "name": "Polar Camel 12 oz. Black Water Bottle",
+    "description": "",
+    "main_image_url": "",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "",
+    "error": "Cannot connect to host www.jdsindustries.com:443 ssl:default [An existing connection was forcibly closed by the remote host]"
+  },
+  {
+    "sku": "LWB053",
+    "name": "Polar Camel 12 oz. Red  Water Bottle",
+    "description": "SKU:&nbsp;LWB053 - Polar Camel 12 oz. Red Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916495/products/images/large/LWB053--fc2c14d9.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:07.002979",
+    "error": ""
+  },
+  {
+    "sku": "LWB054",
+    "name": "Polar Camel 12 oz. Royal Blue Water Bottle",
+    "description": "",
+    "main_image_url": "",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "",
+    "error": "Cannot connect to host www.jdsindustries.com:443 ssl:default [The specified network name is no longer available]"
+  },
+  {
+    "sku": "LWB055",
+    "name": "Polar Camel 12 oz. Pink Water Bottle",
+    "description": "SKU:&nbsp;LWB055 - Polar Camel 12 oz. Pink Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916515/products/images/large/LWB055--f7474c6a.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:07.410314",
+    "error": ""
+  },
+  {
+    "sku": "LWB056",
+    "name": "Polar Camel 12 oz. Teal Water Bottle",
+    "description": "SKU:&nbsp;LWB056 - Polar Camel 12 oz. Teal Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916521/products/images/large/LWB056--fd3436cf.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:07.953035",
+    "error": ""
+  },
+  {
+    "sku": "LWB057",
+    "name": "Polar Camel 12 oz. Light Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB057 - Polar Camel 12 oz. Light Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916529/products/images/large/LWB057--63634b28.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:08.838831",
+    "error": ""
+  },
+  {
+    "sku": "LWB058",
+    "name": "Polar Camel 12 oz. Light Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB058 - Polar Camel 12 oz. Light Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916535/products/images/large/LWB058--daa5f80e.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:08.615705",
+    "error": ""
+  },
+  {
+    "sku": "LWB059",
+    "name": "Polar Camel 12 oz. Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB059 - Polar Camel 12 oz. Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916542/products/images/large/LWB059--0ea5bd78.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:09.312298",
+    "error": ""
+  },
+  {
+    "sku": "LWB060",
+    "name": "Polar Camel 12 oz. Gray Water Bottle",
+    "description": "SKU:&nbsp;LWB060 - Polar Camel 12 oz. Gray Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916548/products/images/large/LWB060--a98b0699.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:10.071263",
+    "error": ""
+  },
+  {
+    "sku": "LWB061",
+    "name": "Polar Camel 12 oz. Navy Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB061 - Polar Camel 12 oz. Navy Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916556/products/images/large/LWB061--205bbf58.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:10.803381",
+    "error": ""
+  },
+  {
+    "sku": "LWB062",
+    "name": "Polar Camel 12 oz. Orange Water Bottle",
+    "description": "SKU:&nbsp;LWB062 - Polar Camel 12 oz. Orange Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916565/products/images/large/LWB062--860b5209.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:11.672658",
+    "error": ""
+  },
+  {
+    "sku": "LWB063",
+    "name": "Polar Camel 12 oz. Maroon Water Bottle",
+    "description": "SKU:&nbsp;LWB063 - Polar Camel 12 oz. Maroon Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1691433940/products/images/large/LWB063--e4fb37d3.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:12.394903",
+    "error": ""
+  },
+  {
+    "sku": "LWB064",
+    "name": "Polar Camel 12 oz. White Polar Bottle",
+    "description": "SKU:&nbsp;LWB064 - Polar Camel 12 oz. White Polar Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916578/products/images/large/LWB064--5d9c7523.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:13.157248",
+    "error": ""
+  },
+  {
+    "sku": "LWB065",
+    "name": "Polar Camel 12 oz. Green Polar Camel Water Bottle",
+    "description": "SKU:&nbsp;LWB065 - Polar Camel 12 oz. Green Polar Camel Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916586/products/images/large/LWB065--37edf8cd.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:13.890731",
+    "error": ""
+  },
+  {
+    "sku": "LWB066",
+    "name": "Polar Camel 12 oz. Yellow Water Bottle",
+    "description": "SKU:&nbsp;LWB066 - Polar Camel 12 oz. Yellow Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916591/products/images/large/LWB066--f17d96bb.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:14.608028",
+    "error": ""
+  },
+  {
+    "sku": "LWB067",
+    "name": "Polar Camel 12 oz. Coral Water Bottle",
+    "description": "SKU:&nbsp;LWB067 - Polar Camel 12 oz. Coral Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916597/products/images/large/LWB067--f4376be0.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:15.351916",
+    "error": ""
+  },
+  {
+    "sku": "LWB068",
+    "name": "Polar Camel 12 oz. Olive Green Water Bottle",
+    "description": "SKU:&nbsp;LWB068 - Polar Camel 12 oz. Olive Green Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669916603/products/images/large/LWB068--030e2669.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:16.072357",
+    "error": ""
+  },
+  {
+    "sku": "LWB101",
+    "name": "Polar Camel 20 oz. Stainless Steel Water Bottle",
+    "description": "SKU:&nbsp;LWB101 - Polar Camel 20 oz. Stainless Steel Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757725/products/images/large/LWB101--7cda76a7.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:16.852081",
+    "error": ""
+  },
+  {
+    "sku": "LWB102",
+    "name": "Polar Camel 20 oz. Black Water Bottle",
+    "description": "SKU:&nbsp;LWB102 - Polar Camel 20 oz. Black Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757736/products/images/large/LWB102--836567f1.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:17.587497",
+    "error": ""
+  },
+  {
+    "sku": "LWB103",
+    "name": "Polar Camel 20 oz. Red Water Bottle",
+    "description": "SKU:&nbsp;LWB103 - Polar Camel 20 oz. Red Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1671126162/products/images/large/LWB103--7891a7c0.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:18.306936",
+    "error": ""
+  },
+  {
+    "sku": "LWB104",
+    "name": "Polar Camel 20 oz. Royal Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB104 - Polar Camel 20 oz. Royal Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757759/products/images/large/LWB104--13fb2f51.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:19.021999",
+    "error": ""
+  },
+  {
+    "sku": "LWB105",
+    "name": "Polar Camel 20 oz. Pink Water Bottle",
+    "description": "SKU:&nbsp;LWB105 - Polar Camel 20 oz. Pink Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757769/products/images/large/LWB105--13494d12.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:19.743929",
+    "error": ""
+  },
+  {
+    "sku": "LWB106",
+    "name": "Polar Camel 20 oz. Teal Water Bottle",
+    "description": "SKU:&nbsp;LWB106 - Polar Camel 20 oz. Teal Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757780/products/images/large/LWB106--6a147171.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:20.484570",
+    "error": ""
+  },
+  {
+    "sku": "LWB107",
+    "name": "Polar Camel 20 oz. Light Blue  Water Bottle",
+    "description": "SKU:&nbsp;LWB107 - Polar Camel 20 oz. Light Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757791/products/images/large/LWB107--2f902cc9.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:21.197969",
+    "error": ""
+  },
+  {
+    "sku": "LWB108",
+    "name": "Polar Camel 20 oz. Light Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB108 - Polar Camel 20 oz. Light Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757802/products/images/large/LWB108--810711af.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:21.908460",
+    "error": ""
+  },
+  {
+    "sku": "LWB109",
+    "name": "Polar Camel 20 oz. Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB109 - Polar Camel 20 oz. Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757813/products/images/large/LWB109--778c32e7.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:22.623389",
+    "error": ""
+  },
+  {
+    "sku": "LWB110",
+    "name": "Polar Camel 20 oz. Dark Gray Water Bottle",
+    "description": "SKU:&nbsp;LWB110 - Polar Camel 20 oz. Dark Gray Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757824/products/images/large/LWB110--0a581e4a.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:23.336710",
+    "error": ""
+  },
+  {
+    "sku": "LWB111",
+    "name": "Polar Camel 20 oz. Navy Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB111 - Polar Camel 20 oz. Navy Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757836/products/images/large/LWB111--85490b3a.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:24.049719",
+    "error": ""
+  },
+  {
+    "sku": "LWB112",
+    "name": "Polar Camel 20 oz. Orange Water Bottle",
+    "description": "SKU:&nbsp;LWB112 - Polar Camel 20 oz. Orange Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757847/products/images/large/LWB112--9a7d98d3.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:24.762464",
+    "error": ""
+  },
+  {
+    "sku": "LWB113",
+    "name": "Polar Camel 20 oz. Maroon Water Bottle",
+    "description": "SKU:&nbsp;LWB113 - Polar Camel 20 oz. Maroon Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1671125536/products/images/large/LWB113--7492e920.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:25.478250",
+    "error": ""
+  },
+  {
+    "sku": "LWB114",
+    "name": "Polar Camel 20 oz. White Water Bottle",
+    "description": "SKU:&nbsp;LWB114 - Polar Camel 20 oz. White Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757871/products/images/large/LWB114--fde52482.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:26.229431",
+    "error": ""
+  },
+  {
+    "sku": "LWB115",
+    "name": "Polar Camel 20 oz. Green Water Bottle",
+    "description": "SKU:&nbsp;LWB115 - Polar Camel 20 oz. Green Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757886/products/images/large/LWB115--ad1abfb8.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:26.955505",
+    "error": ""
+  },
+  {
+    "sku": "LWB116",
+    "name": "Polar Camel 20 oz. Yellow Water Bottle",
+    "description": "SKU:&nbsp;LWB116 - Polar Camel 20 oz. Yellow Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757898/products/images/large/LWB116--bd62e2ff.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:27.711017",
+    "error": ""
+  },
+  {
+    "sku": "LWB117",
+    "name": "Polar Camel 20 oz. Coral Water Bottle",
+    "description": "SKU:&nbsp;LWB117 - Polar Camel 20 oz. Coral Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757910/products/images/large/LWB117--42a54813.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:29.232225",
+    "error": ""
+  },
+  {
+    "sku": "LWB118",
+    "name": "Polar Camel 20 oz. Olive Green Water Bottle",
+    "description": "SKU:&nbsp;LWB118 - Polar Camel 20 oz. Olive Green Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757920/products/images/large/LWB118--7697993f.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:28.466466",
+    "error": ""
+  },
+  {
+    "sku": "LWB201",
+    "name": "Polar Camel 32 oz. Stainless Steel Water Bottle",
+    "description": "SKU:&nbsp;LWB201 - Polar Camel 32 oz. Stainless Steel Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757933/products/images/large/LWB201--b3fb54bb.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:30.025389",
+    "error": ""
+  },
+  {
+    "sku": "LWB202",
+    "name": "Polar Camel 32 oz. Black Water Bottle",
+    "description": "SKU:&nbsp;LWB202 - Polar Camel 32 oz. Black Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757943/products/images/large/LWB202--6b6d4b30.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:30.777654",
+    "error": ""
+  },
+  {
+    "sku": "LWB203",
+    "name": "Polar Camel 32 oz. Red Water Bottle",
+    "description": "SKU:&nbsp;LWB203 - Polar Camel 32 oz. Red Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1671126362/products/images/large/LWB203--6765b0b5.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:31.551184",
+    "error": ""
+  },
+  {
+    "sku": "LWB204",
+    "name": "Polar Camel 32 oz. Royal Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB204 - Polar Camel 32 oz. Royal Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757966/products/images/large/LWB204--a227038c.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:32.268265",
+    "error": ""
+  },
+  {
+    "sku": "LWB205",
+    "name": "Polar Camel 32 oz. Pink Water Bottle",
+    "description": "SKU:&nbsp;LWB205 - Polar Camel 32 oz. Pink Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757976/products/images/large/LWB205--c631ada1.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:32.995957",
+    "error": ""
+  },
+  {
+    "sku": "LWB206",
+    "name": "Polar Camel 32 oz. Teal Water Bottle",
+    "description": "SKU:&nbsp;LWB206 - Polar Camel 32 oz. Teal Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757986/products/images/large/LWB206--4b69d06a.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:33.725301",
+    "error": ""
+  },
+  {
+    "sku": "LWB207",
+    "name": "Polar Camel 32 oz. Light Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB207 - Polar Camel 32 oz. Light Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669757996/products/images/large/LWB207--aeabce0b.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:35.168464",
+    "error": ""
+  },
+  {
+    "sku": "LWB208",
+    "name": "Polar Camel 32 oz. Light Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB208 - Polar Camel 32 oz. Light Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758007/products/images/large/LWB208--b192f60e.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:34.455833",
+    "error": ""
+  },
+  {
+    "sku": "LWB209",
+    "name": "Polar Camel 32 oz. Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB209 - Polar Camel 32 oz. Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758018/products/images/large/LWB209--9b586d55.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:35.881833",
+    "error": ""
+  },
+  {
+    "sku": "LWB210",
+    "name": "Polar Camel 32 oz. Dark Gray Water Bottle",
+    "description": "SKU:&nbsp;LWB210 - Polar Camel 32 oz. Dark Gray Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758029/products/images/large/LWB210--a0f88715.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:36.599388",
+    "error": ""
+  },
+  {
+    "sku": "LWB211",
+    "name": "Polar Camel 32 oz. Navy Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB211 - Polar Camel 32 oz. Navy Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758039/products/images/large/LWB211--4d90cbb6.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:37.326980",
+    "error": ""
+  },
+  {
+    "sku": "LWB212",
+    "name": "Polar Camel 32 oz. Orange Water Bottle",
+    "description": "SKU:&nbsp;LWB212 - Polar Camel 32 oz. Orange Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758052/products/images/large/LWB212--9788afe3.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:38.042543",
+    "error": ""
+  },
+  {
+    "sku": "LWB213",
+    "name": "Polar Camel 32 oz. Maroon Water Bottle",
+    "description": "SKU:&nbsp;LWB213 - Polar Camel 32 oz. Maroon Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1671125725/products/images/large/LWB213--4d39d88c.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:38.765956",
+    "error": ""
+  },
+  {
+    "sku": "LWB214",
+    "name": "Polar Camel 32 oz. White Water Bottle",
+    "description": "SKU:&nbsp;LWB214 - Polar Camel 32 oz. White Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758074/products/images/large/LWB214--0b303b94.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:39.484092",
+    "error": ""
+  },
+  {
+    "sku": "LWB215",
+    "name": "Polar Camel 32 oz. Green Water Bottle",
+    "description": "SKU:&nbsp;LWB215 - Polar Camel 32 oz. Green Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758085/products/images/large/LWB215--1409227f.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:40.222515",
+    "error": ""
+  },
+  {
+    "sku": "LWB216",
+    "name": "Polar Camel 32 oz. Yellow Water Bottle",
+    "description": "SKU:&nbsp;LWB216 - Polar Camel 32 oz. Yellow Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758095/products/images/large/LWB216--f3a77be0.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:40.991766",
+    "error": ""
+  },
+  {
+    "sku": "LWB217",
+    "name": "Polar Camel 32 oz. Coral Water Bottle",
+    "description": "SKU:&nbsp;LWB217 - Polar Camel 32 oz. Coral Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758106/products/images/large/LWB217--ad14c5bf.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:41.728149",
+    "error": ""
+  },
+  {
+    "sku": "LWB218",
+    "name": "Polar Camel 32 oz. Olive Green Water Bottle",
+    "description": "SKU:&nbsp;LWB218 - Polar Camel 32 oz. Olive Green Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758117/products/images/large/LWB218--0ca3ff08.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:42.460767",
+    "error": ""
+  },
+  {
+    "sku": "LWB230",
+    "name": "Polar Camel 32 oz. Black/Ghost Black Water Bottle",
+    "description": "SKU:&nbsp;LWB230 - Polar Camel 32 oz. Black/Ghost Black Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1719263146/products/images/large/LWB230--7eb9d101.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:43.178248",
+    "error": ""
+  },
+  {
+    "sku": "LWB231",
+    "name": "Polar Camel 32 oz. White/Ghost Black Water Bottle",
+    "description": "SKU:&nbsp;LWB231 - Polar Camel 32 oz. White/Ghost Black Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1719263142/products/images/large/LWB231--3bc6fda9.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:43.935394",
+    "error": ""
+  },
+  {
+    "sku": "LWB240",
+    "name": "Polar Camel 32 oz. Black/Rose Gold Water Bottle",
+    "description": "SKU:&nbsp;LWB240 - Polar Camel 32 oz. Black/Rose Gold Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1719263136/products/images/large/LWB240--5571eb6d.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:44.690654",
+    "error": ""
+  },
+  {
+    "sku": "LWB241",
+    "name": "Polar Camel 32 oz. White/Rose Gold Water Bottle",
+    "description": "SKU:&nbsp;LWB241 - Polar Camel 32 oz. White/Rose Gold Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1719263132/products/images/large/LWB241--59c78731.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:45.440337",
+    "error": ""
+  },
+  {
+    "sku": "LWB250",
+    "name": "Polar Camel 32 oz. Black/Prism Water Bottle",
+    "description": "SKU:&nbsp;LWB250 - Polar Camel 32 oz. Black/Prism Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1724362967/products/images/large/LWB250--78bc0e43.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:46.232633",
+    "error": ""
+  },
+  {
+    "sku": "LWB251",
+    "name": "Polar Camel 32 oz. White/Prism Water Bottle",
+    "description": "SKU:&nbsp;LWB251 - Polar Camel 32 oz. White/Prism Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1729697941/products/images/large/LWB251--d38a3464.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:46.947564",
+    "error": ""
+  },
+  {
+    "sku": "LWB301",
+    "name": "Polar Camel 40 oz. Stainless Steel Water Bottle",
+    "description": "SKU:&nbsp;LWB301 - Polar Camel 40 oz. Stainless Steel Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758127/products/images/large/LWB301--9c1a5a08.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:47.668494",
+    "error": ""
+  },
+  {
+    "sku": "LWB302",
+    "name": "Polar Camel 40 oz. Black Water Bottle",
+    "description": "SKU:&nbsp;LWB302 - Polar Camel 40 oz. Black Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758138/products/images/large/LWB302--57038de5.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:48.399203",
+    "error": ""
+  },
+  {
+    "sku": "LWB303",
+    "name": "Polar Camel 40 oz. Red Water Bottle",
+    "description": "SKU:&nbsp;LWB303 - Polar Camel 40 oz. Red Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1671126448/products/images/large/LWB303--9a339eab.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:49.118053",
+    "error": ""
+  },
+  {
+    "sku": "LWB304",
+    "name": "Polar Camel 40 oz. Royal Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB304 - Polar Camel 40 oz. Royal Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758160/products/images/large/LWB304--17724635.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:49.836456",
+    "error": ""
+  },
+  {
+    "sku": "LWB305",
+    "name": "Polar Camel 40 oz. Pink Water Bottle",
+    "description": "SKU:&nbsp;LWB305 - Polar Camel 40 oz. Pink Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758171/products/images/large/LWB305--eb98b30a.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:50.549593",
+    "error": ""
+  },
+  {
+    "sku": "LWB306",
+    "name": "Polar Camel 40 oz. Teal Water Bottle",
+    "description": "SKU:&nbsp;LWB306 - Polar Camel 40 oz. Teal Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758185/products/images/large/LWB306--f987cd00.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:51.267187",
+    "error": ""
+  },
+  {
+    "sku": "LWB307",
+    "name": "Polar Camel 40 oz. Light Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB307 - Polar Camel 40 oz. Light Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758196/products/images/large/LWB307--68baf373.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:51.993096",
+    "error": ""
+  },
+  {
+    "sku": "LWB308",
+    "name": "Polar Camel 40 oz. Light Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB308 - Polar Camel 40 oz. Light Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758206/products/images/large/LWB308--b7a605a9.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:52.704646",
+    "error": ""
+  },
+  {
+    "sku": "LWB309",
+    "name": "Polar Camel 40 oz. Purple Water Bottle",
+    "description": "SKU:&nbsp;LWB309 - Polar Camel 40 oz. Purple Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758216/products/images/large/LWB309--cec7f394.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:53.425338",
+    "error": ""
+  },
+  {
+    "sku": "LWB310",
+    "name": "Polar Camel 40 oz. Dark Gray Water Bottle",
+    "description": "SKU:&nbsp;LWB310 - Polar Camel 40 oz. Dark Gray Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758226/products/images/large/LWB310--0be22ec8.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:54.151853",
+    "error": ""
+  },
+  {
+    "sku": "LWB311",
+    "name": "Polar Camel 40 oz. Navy Blue Water Bottle",
+    "description": "SKU:&nbsp;LWB311 - Polar Camel 40 oz. Navy Blue Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758236/products/images/large/LWB311--c968b220.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:54.858181",
+    "error": ""
+  },
+  {
+    "sku": "LWB312",
+    "name": "Polar Camel 40 oz. Orange Water Bottle",
+    "description": "SKU:&nbsp;LWB312 - Polar Camel 40 oz. Orange Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758246/products/images/large/LWB312--0f84a486.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:55.572424",
+    "error": ""
+  },
+  {
+    "sku": "LWB313",
+    "name": "Polar Camel 40 oz. Maroon Water Bottle",
+    "description": "SKU:&nbsp;LWB313 - Polar Camel 40 oz. Maroon Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1671125888/products/images/large/LWB313--7ca35571.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:56.283401",
+    "error": ""
+  },
+  {
+    "sku": "LWB314",
+    "name": "Polar Camel 40 oz. White Water Bottle",
+    "description": "SKU:&nbsp;LWB314 - Polar Camel 40 oz. White Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758266/products/images/large/LWB314--ce490bdb.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:56.991622",
+    "error": ""
+  },
+  {
+    "sku": "LWB315",
+    "name": "Polar Camel 40 oz. Green Water Bottle",
+    "description": "SKU:&nbsp;LWB315 - Polar Camel 40 oz. Green Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758276/products/images/large/LWB315--40380ea8.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:57.707416",
+    "error": ""
+  },
+  {
+    "sku": "LWB316",
+    "name": "Polar Camel 40 oz. Yellow Water Bottle",
+    "description": "SKU:&nbsp;LWB316 - Polar Camel 40 oz. Yellow Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758286/products/images/large/LWB316--ed66e5ba.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:58.419857",
+    "error": ""
+  },
+  {
+    "sku": "LWB317",
+    "name": "Polar Camel 40 oz. Coral Water Bottle",
+    "description": "SKU:&nbsp;LWB317 - Polar Camel 40 oz. Coral Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758297/products/images/large/LWB317--a6dbca4c.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:59.133488",
+    "error": ""
+  },
+  {
+    "sku": "LWB318",
+    "name": "Polar Camel 40 oz. Olive Green Water Bottle",
+    "description": "SKU:&nbsp;LWB318 - Polar Camel 40 oz. Olive Green Water Bottle",
+    "main_image_url": "https://res.cloudinary.com/business-products/image/upload/q_auto,c_pad,b_transparent,w_300,h_300/v1669758300/products/images/large/LWB318--f41a14de.png",
+    "alt_image_urls": [],
+    "template_url": "",
+    "scraped_at": "2026-01-03T18:18:59.856634",
+    "error": ""
+  }
+]

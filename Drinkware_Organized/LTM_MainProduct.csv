@@ -1,0 +1,301 @@
+SKU,NAME,CASE QTY,PRICE EACH,PRICE BREAK 1,PRICE BREAK 2,PRICE BREAK 3,PRICE BREAK 4,PRICE BREAK 5,CATALOG,PAGES,PREVIOUS PRICE,PREVIOUS PRICE BREAK 1,PREVIOUS PRICE BREAK 2,PREVIOUS PRICE BREAK 3,PREVIOUS PRICE BREAK 4,PREVIOUS PRICE BREAK 5,LAST PRICE CHANGE DATE,Verification_Status,Product_Category,Related_SKU_Prefix
+LTM033,15 oz. Bamboo Stainless Steel Tumbler,24,11.75,10.05,9.55,9.1,0,0,CATALOG24,112        ,11.3,9.65,9.2,8.75,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM071,16 oz. Black Laserable Stainless Steel Travel Mug without Handle,24,5.85,4.5,4.25,4.1,0,0,CATALOG24,112        ,5.4,4.15,3.95,3.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM072,16 oz. Red Laserable Stainless Steel Travel Mug without Handle,24,5.85,4.5,4.25,4.1,0,0,CATALOG24,112        ,5.4,4.15,3.95,3.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM073,16 oz. Blue Laserable Stainless Steel Travel Mug without Handle,24,5.85,4.5,4.25,4.1,0,0,CATALOG24,112        ,5.4,4.15,3.95,3.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM076,16 oz. Silver Laserable Stainless Steel Travel Mug without Handle,24,5.85,4.5,4.25,4.1,0,0,CATALOG24,112        ,5.4,4.15,3.95,3.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM30H,Handle for the 30 oz. Polar Camel Tumblers,24,2.9,2.05,1.95,1.87,0,0,CATALOG24,50         ,2.75,1.94,1.86,1.78,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5201,Polar Camel 20 oz. Light Brown Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,71         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5202,Polar Camel 20 oz. Dark Brown Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,71         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5203,Polar Camel 20 oz. Black/Silver Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,71         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5204,Polar Camel 20 oz. Rawhide Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,71         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5205,Polar Camel 20 oz. Gray Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,71         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5206,Polar Camel 20 oz. Blue/Silver Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,71         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5207,Polar Camel 20 oz. Pink Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,72         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5208,Polar Camel 20 oz. Rustic/Silver Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,72         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5209,Polar Camel 20 oz. Teal Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,72         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5210,Polar Camel 20 oz. Bamboo Laserable Leatherette Polar Camel Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,72         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5211,Polar Camel 20 oz. Red Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,72         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5212,Polar Camel 20 oz. White/Black Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,72         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5213,Polar Camel 20 oz. Purple/Black Laserable Leatherette Tumbler with Clear Lid,24,14.1,11.75,11.3,10.8,0,0,CATALOG24,72         ,13.55,11.3,10.85,10.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5251,Polar Camel 20 oz. Black with Black/Silver Leatherette Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,0          ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5252,Polar Camel 20 oz. Black with Rawhide Leatherette Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,0          ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5253,Polar Camel 20 oz. Black with Gray Leatherette Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,0          ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5254,Polar Camel 20 oz. Black with Rustic Leatherette Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,0          ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5255,Polar Camel 20 oz. Black with Bamboo Leatherette Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,0          ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5256,Polar Camel 20 oz. Black with White Leatherette Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,0          ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5401,Polar Camel 20 oz. Black/White Tumbler with Silicone Grip and Clear Lid,24,12.4,10.7,10.35,9.95,0,0,CATALOG24,73         ,11.8,10.2,9.85,9.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5402,Polar Camel 20 oz. Red/White Tumbler with Silicone Grip and Clear Lid,24,12.4,10.7,10.35,9.95,0,0,CATALOG24,73         ,11.8,10.2,9.85,9.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5403,Polar Camel 20 oz. Blue/White Tumbler with Silicone Grip and Clear Lid,24,12.4,10.7,10.35,9.95,0,0,CATALOG24,73         ,11.8,10.2,9.85,9.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5404,Polar Camel 20 oz. Navy Blue/White Tumbler with Silicone Grip and Clear Lid,24,12.4,10.7,10.35,9.95,0,0,CATALOG24,73         ,11.8,10.2,9.85,9.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5501,20 oz. Polar Camel White/Black Tumbler with Silicone Grip and Clear Lid,24,12.4,10.7,10.35,9.95,0,0,CATALOG24,74         ,11.8,10.2,9.85,9.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5502,20 oz. Polar Camel Pink/Black Tumbler with Silicone Grip and Clear Lid,24,12.4,10.7,10.35,9.95,0,0,CATALOG24,74         ,11.8,10.2,9.85,9.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM5503,20 oz. Polar Camel Teal/Black Polar with Silicone Grip and Clear Lid,24,12.4,10.7,10.35,9.95,0,0,CATALOG24,74         ,11.8,10.2,9.85,9.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7001,Polar Camel 22 oz. Stainless Steel Skinny Tumbler with Slider Lid,24,10.7,9.1,8.7,8.3,0,0,CATALOG24,33         ,10.2,8.65,8.3,7.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7002,Polar Camel 22 oz. Black Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7003,Polar Camel 22 oz. Red Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7004,Polar Camel 22 oz. Royal Blue Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7005,Polar Camel 22 oz. Pink Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7006,Polar Camel 22 oz. Teal Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7007,Polar Camel 22 oz. Light Blue Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7008,Polar Camel 22 oz. Light Purple Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7009,Polar Camel 22 oz. Purple Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,33         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7010,Polar Camel 22 oz. Dark Gray Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7011,Polar Camel 22 oz. Navy Blue Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7012,Polar Camel 22 oz. Orange Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7013,Polar Camel 22 oz. Maroon Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7014,Polar Camel 22 oz. White Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7015,Polar Camel 22 oz. Green Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7016,Polar Camel 22 oz. Yellow Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7017,Polar Camel 22 oz. Coral Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7018,Polar Camel 22 oz. Olive Green Skinny Tumbler with Slider Lid,24,11.4,9.7,9.35,8.95,0,0,CATALOG24,34         ,10.85,9.25,8.9,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7030,Polar Camel 22 oz. Black/Ghost Black Skinny Tumbler,24,12.2,10.45,10.1,9.7,0,0,CATALOG24,0          ,11.6,9.95,9.6,9.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7031,Polar Camel 22 oz. White/Ghost Black Skinny Tumbler,24,12.2,10.45,10.1,9.7,0,0,CATALOG24,0          ,11.6,9.95,9.6,9.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7050,Polar Camel 22 oz. Black/Rose Gold Skinny Tumbler,24,12.2,10.45,10.1,9.7,0,0,CATALOG24,0          ,11.6,9.95,9.6,9.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7051,Polar Camel 22 oz. White/Rose Gold Skinny Tumbler,24,12.2,10.45,10.1,9.7,0,0,CATALOG24,0          ,11.6,9.95,9.6,9.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7065,Polar Camel 22 oz. Black/Prism Skinny Tumbler,24,12.2,10.45,10.1,9.7,0,0,CATALOG24,0          ,11.6,9.95,9.6,9.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7066,Polar Camel 22 oz. White/Prism Skinny Tumbler,24,12.2,10.45,10.1,9.7,0,0,CATALOG24,0          ,11.6,9.95,9.6,9.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7101,Polar Camel 10 oz. Stainless Steel Vacuum Insulated Ringneck Tumbler with Clear Lid,24,6.5,5.35,5.15,4.9,0,0,CATALOG24,59         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM7102,Polar Camel 10 oz. Black Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7103,Polar Camel 10 oz. Red Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7104,Polar Camel 10 oz. Royal Blue Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7105,Polar Camel 10 oz. Pink Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7106,Polar Camel 10 oz. Teal Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7109,Polar Camel 10 oz. Purple Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7111,Polar Camel 10 oz. Navy Blue Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7113,Polar Camel 10 oz. Maroon Vacuum Insulated Ringneck Tumbler with Clear Lid,24,6.95,5.8,5.6,5.35,0,0,CATALOG24,59         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM7114,Polar Camel 10 oz. White Vacuum Insulated Ringneck Tumbler with Clear Lid,24,10.1,8.4,8.1,7.75,0,0,CATALOG24,75         ,9.6,8,7.7,7.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7201,Polar Camel 20 oz. Stainless Steel Ringneck Tumbler with Logo Lid,24,9.35,7.6,7.3,7,0,0,CATALOG24,45         ,8.9,7.25,6.95,6.65,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7202,Polar Camel 20 oz. Full Black Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7203,Polar Camel 20 oz. Red Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7204,Polar Camel 20 oz. Royal Blue Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7205,Polar Camel 20 oz. Pink Ringneck Tumbler with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7206,Polar Camel 20 oz. Teal Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7207,Polar Camel 20 oz. Light Blue Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7208,Polar Camel 20 oz. Light Purple Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7209,Polar Camel 20 oz. Purple Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7210,Polar Camel 20 oz. Dark Gray Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7211,Polar Camel 20 oz. Navy Blue Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7212,Polar Camel 20 oz. Orange Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7213,Polar Camel 20 oz. Maroon Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7214,Polar Camel 20 oz. White Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7215,Polar Camel 20 oz. Green Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7216,Polar Camel 20 oz. Black Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,45         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7217,Polar Camel 20 oz. Yellow Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7218,Polar Camel 20 oz. Coral Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7219,Polar Camel 20 oz. Olive Green Ringneck Tumbler with Logo Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,46         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7230,Polar Camel 20 oz. Black/Bright Gold ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7231,Polar Camel 20 oz. Red/Bright Gold ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7232,Polar Camel 20 oz. Purple/Bright Gold ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7233,Polar Camel 20 oz. Navy Blue/Bright Gold ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7234,Polar Camel 20 oz. Maroon/Bright Gold ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7235,Polar Camel 20 oz. Green/Bright Gold ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7251,Polar Camel 20 oz. Stainless Steel Ringneck Tumbler with Slider Lid,24,9.8,8.2,7.8,7.5,0,0,CATALOG24,47         ,9.35,7.8,7.45,7.15,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7252,Polar Camel 20 oz. Full Black Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7253,Polar Camel 20 oz. Red Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7254,Polar Camel 20 oz. Royal Blue Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7255,Polar Camel 20 oz. Pink Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7256,Polar Camel 20 oz. Teal Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7257,Polar Camel 20 oz. Light Blue Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7258,Polar Camel 20 oz. Light Purple Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7259,Polar Camel 20 oz. Purple Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7260,Polar Camel 20 oz. Dark Gray Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7261,Polar Camel 20 oz. Navy Blue Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7262,Polar Camel 20 oz. Orange Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7263,Polar Camel 20 oz. Maroon Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7264,Polar Camel 20 oz. White Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7265,Polar Camel 20 oz. Green Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7266,Polar Camel 20 oz. Black Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,47         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7267,Polar Camel 20 oz. Yellow Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7268,Polar Camel 20 oz. Coral Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7269,Polar Camel 20 oz. Olive Green Ringneck Tumbler with Slider Lid,24,10.45,8.8,8.5,8.2,0,0,CATALOG24,48         ,9.95,8.4,8.1,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7278,Polar Camel 20 oz. Orange/Ghost Black ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7279,Polar Camel 20 oz. Yellow/Ghost Black ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,07/21/2025,Confirmed,Main Product,LTM
+LTM7280,Polar Camel 20 oz. Black/Ghost Black Ringneck Tumbler,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7281,Polar Camel 20 oz. White/Ghost Black Ringneck Tumbler,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7282,Polar Camel 20 oz. Warm Sand/Ghost Black ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7283,Polar Camel 20 oz. Moody Lilac/Ghost Black ION-Plated Black Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7284,Polar Camel 20 oz. Summer Sage/Ghost Black ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7285,Polar Camel 20 oz. Blush/Ghost Black ION-Plated Ringneck Tumbler with Slider Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7290,Polar Camel 20 oz. Black/Rose Gold Ringneck Tumbler,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7291,Polar Camel 20 oz. White/Rose Gold Ringneck Tumbler,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7295,Polar Camel 20 oz. Black/Prism Ringneck Tumbler,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7296,Polar Camel 20 oz. White/Prism Ringneck Tumbler,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,0          ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7301,Polar Camel 30 oz. Stainless Steel Ringneck Tumbler with Logo Lid,24,10.6,8.95,8.55,8.2,0,0,CATALOG24,49         ,10.1,8.5,8.15,7.8,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7302,Polar Camel 30 oz. Full Black Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7303,Polar Camel 30 oz. Red Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7304,Polar Camel 30 oz. Royal Blue Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7305,Polar Camel 30 oz. Pink Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7306,Polar Camel 30 oz. Teal Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7307,Polar Camel 30 oz. Light Blue Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7308,Polar Camel 30 oz. Light Purple Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7309,Polar Camel 30 oz. Purple Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7310,Polar Camel 30 oz. Dark Gray Vacuum Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7311,Polar Camel 30 oz. Navy Blue Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7312,Polar Camel 30 oz. Orange Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7313,Polar Camel 30 oz. Maroon Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7314,Polar Camel 30 oz. White Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7315,Polar Camel 30 oz. Green Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7316,Polar Camel 30 oz. Black Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,49         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7317,Polar Camel 30 oz. Yellow Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7318,Polar Camel 30 oz. Coral Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7319,Polar Camel 30 oz. Olive Green Ringneck Tumbler with Logo Lid,24,11.3,9.55,9.2,8.8,0,0,CATALOG24,50         ,10.75,9.1,8.75,8.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7351,Polar Camel 30 oz. Stainless Steel Ringneck Tumbler with Silder Lid,24,11.1,9.45,9.1,8.7,0,0,CATALOG24,51         ,10.55,9,8.65,8.3,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7352,Polar Camel 30 oz. Full Black Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7353,Polar Camel 30 oz. Red Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7354,Polar Camel 30 oz. Royal Blue Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7355,Polar Camel 30 oz. Pink Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7356,Polar Camel 30 oz. Teal Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7357,Polar Camel 30 oz. Light Blue Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7358,Polar Camel 30 oz. Light Purple Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7359,Polar Camel 30 oz. Purple Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7360,Polar Camel 30 oz. Dark Gray Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7361,Polar Camel 30 oz. Navy Blue Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7362,Polar Camel 30 oz. Orange Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7363,Polar Camel 30 oz. Maroon Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7364,Polar Camel 30 oz. White Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7365,Polar Camel 30 oz. Green Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7366,Polar Camel 30 oz. Black Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,51         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7367,Polar Camel 30 oz. Yellow Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7368,Polar Camel 30 oz. Coral Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7369,Polar Camel 30 oz. Olive Green Ringneck Tumbler with Slider Lid,24,11.75,10.1,9.7,9.35,0,0,CATALOG24,52         ,11.2,9.6,9.25,8.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7375,Polar Camel 32 oz. Black Travel Mug with Snap Lid & Straw,12,16.55,14.55,14.15,13.75,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM7376,Polar Camel 32 oz. White Travel Mug with Snap Lid and Straw,12,16.55,14.55,14.15,13.75,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM7377,Polar Camel 32 oz. Navy Blue Travel Mug with Snap Lid and Straw,12,16.55,14.55,14.15,13.75,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM7378,Polar Camel 32 oz. Red Travel Mug with Snap Lid and Straw,12,16.55,14.55,14.15,13.75,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM7379,Polar Camel 32 oz. Royal Blue Travel Mug with Snap Lid and Straw,12,16.55,14.55,14.15,13.75,0,0,Coming Soon,0,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM7401,Polar Camel 40 oz. Black Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,27         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7402,Polar Camel 40 oz. Red Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,27         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7403,Polar Camel 40 oz. Royal Blue Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,27         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7404,Polar Camel 40 oz. Teal Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,27         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7405,Polar Camel 40 oz. Dark Gray Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,28         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7406,Polar Camel 40 oz. Navy Blue Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,28         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7407,Polar Camel 40 oz. White Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,28         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7408,Polar Camel 40 oz. Olive Green Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,28         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7409,Polar Camel 40 oz. Pink Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,29         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7410,Polar Camel 40 oz. Light Blue Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,29         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7411,Polar Camel 40 oz. Purple Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,29         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7412,Polar Camel 40 oz. Orange Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,29         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7413,Polar Camel 40 oz. Maroon Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,30         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7414,Polar Camel 40 oz. Green Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,30         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7415,Polar Camel 40 oz. Yellow Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,30         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7416,Polar Camel 40 oz. Coral Travel Mug with Snap Lid & Straw,12,19.6,17.55,17.05,16.65,0,0,CATALOG24,30         ,18.65,16.7,16.25,15.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7430,Polar Camel 40 oz. Black/Ghost Black Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7431,Polar Camel 40 oz. White/Ghost Black Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7432,Polar Camel 40 oz. Warm Sand/Ghost Black Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7433,Polar Camel 40 oz. Moody Lilac/Ghost Black Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7434,Polar Camel 40 oz. Summer Sage/Ghost Black Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7435,Polar Camel 40 oz. Blush/Ghost Black Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7451,Polar Camel 40 oz. Black with Black/Silver Laserable Leatherette Travel Mug with a Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7452,Polar Camel 40 oz. Black with Rawhide Laserable Leatherette Travel Mug with a Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7453,Polar Camel 40 oz. Black with Gray Laserable Leatherette Travel Mug with a  Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7454,Polar Camel 40 oz. Black with Rustic/Silver Laserable Leatherette Travel Mug with Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7455,Polar Camel 40 oz. Black with Bamboo Laserable Leatherette Travel Mug with a Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7456,Polar Camel 40 oz. Black with White Laserable Leatherette Travel Mug with  a Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7457,Polar Camel 40 oz. Black with Pink Laserable Leatherette Travel Mug with a Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7458,Polar Camel 40 oz. Black with Teal Laserable Leatherette Travel Mug with a Handle & Straw,12,23.65,21.55,21.1,20.65,0,0,CATALOG24,0          ,22.75,20.7,20.3,19.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7470,Polar Camel 40 oz. Black/Rose Gold Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7471,Polar Camel 40 oz. White/Rose Gold Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7485,Polar Camel 40 oz. Black/Prism Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM7486,Polar Camel 40 oz. White/Prism Travel Mug with Handle & Straw,12,20.6,18.6,18.15,17.7,0,0,CATALOG24,0          ,19.6,17.7,17.3,16.85,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM751,Polar Camel Stainless Steel 16 oz. Pint with Slider Lid,24,7.25,5.95,5.7,5.45,0,0,CATALOG24,57         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM752,Polar Camel Black 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,57         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM753,Polar Camel Red 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,57         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM754,Polar Camel Royal Blue 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,57         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM755,Polar Camel Pink 16 oz. Pint with Slider Lid                               the,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM756,Polar Camel Teal 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM757,Polar Camel Light Blue 16 oz. Pint with Slider Lid,24,7.75,6.45,6.2,5.95,0,0,CATALOG24,58         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM758,Polar Camel Light Purple 16 oz. Pint with Slider Lid,24,7.75,6.45,6.2,5.95,0,0,CATALOG24,58         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM759,Polar Camel Purple 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM760,Polar Camel Dark Gray 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM761,Polar Camel Navy Blue 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM762,Polar Camel Orange 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM763,Polar Camel Maroon 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM764,Polar Camel White 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM765,Polar Camel Green 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM766,Polar Camel Yellow 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM767,Polar Camel Coral 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM768,Polar Camel Olive Green 16 oz. Pint with Slider Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,58         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM801,Polar Camel 16 oz. Stainless Steel Vacuum Insulated Stemless Tumbler with Lid,24,9.1,7.35,7.05,6.7,0,0,CATALOG24,61         ,8.65,7,6.7,6.4,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM802,Polar Camel 16 oz. Black Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,61         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM803,Polar Camel 16 oz. Red Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,61         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM804,Polar Camel 16 oz. Royal Blue Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,61         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM805,Polar Camel 16 oz. Pink Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,61         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM806,Polar Camel 16 oz. Teal Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,61         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM807,Polar Camel 16 oz. Light Blue Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,61         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM808,Polar Camel 16 oz. Light Purple Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,61         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM809,Polar Camel 16 oz. Purple Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,62         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM810,Polar Camel 16 oz. Dark Gray Vacuum Insulated Stemless Tumbler with Lid,24,7.55,6.25,6,5.75,0,0,CATALOG24,62         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM811,Polar Camel 16 oz. Navy Blue Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,62         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM812,Polar Camel 16 oz. Orange Vacuum Insulated Stemless Tumbler with Lid,24,7.55,6.25,6,5.75,0,0,CATALOG24,62         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM813,Polar Camel 16 oz. Maroon Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,62         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM814,Polar Camel 16 oz. White Vacuum Insulated Stemless Tumbler with Lid,24,9.7,8.1,7.65,7.35,0,0,CATALOG24,62         ,9.25,7.7,7.3,7,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM815,Polar Camel 16 oz. Green Vacuum Insulated Stemless Tumbler with Lid,24,7.55,6.25,6,5.75,0,0,CATALOG24,62         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM816,Polar Camel 16 oz. Yellow Vacuum Insulated Stemless Tumbler with Lid,24,7.55,6.25,6,5.75,0,0,CATALOG24,62         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM817,Polar Camel 16 oz. Coral Vacuum Insulated Stemless Tumbler with Lid,24,7.55,6.25,6,5.75,0,0,CATALOG24,62         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM830,Polar Camel 20 oz. White Golf Tumbler with Dimples and Slider Lid,24,10.65,9.15,8.85,8.5,0,0,CATALOG24,60         ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM831,Polar Camel 20 oz. Pink Golf Tumbler with Dimples and Slider Lid,24,10.65,9.15,8.85,8.5,0,0,CATALOG24,0          ,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,No Price Change,Confirmed,Main Product,LTM
+LTM832,Polar Camel 20 oz. Baseball Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,22         ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM833,Polar Camel 20 oz. Football Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,21         ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM834,Polar Camel 20 oz. Basketball Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,21         ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM835,Polar Camel 20 oz. Softball Leather Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,22         ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM836,Polar Camel 20 oz. Soccer Leather Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,21         ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM837,Polar Camel 20 oz. Volleyball Tumbler with Slider Lid,24,14.7,12.4,11.9,11.5,0,0,CATALOG24,22         ,14.15,11.9,11.45,11.05,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM838,Polar Camel 20 oz. White Golf Tumbler with Dimples and Slider Lid,24,12.1,10.4,10.05,9.65,0,0,CATALOG24,0          ,11.5,9.9,9.55,9.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM851,Polar Camel 12 oz. Stainless Steel Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.2,6.5,6.2,5.9,0,0,CATALOG24,59         ,7.8,6.2,5.9,5.6,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM852,Polar Camel 12 oz. Black Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM853,Polar Camel 12 oz. Red Vacuum Insulated Stemless Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM854,Polar Camel 12 oz. Royal Blue Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM855,Polar Camel 12 oz. Pink Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM856,Polar Camel 12 oz. Teal Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM857,Polar Camel 12 oz. Light Blue Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM858,Polar Camel 12 oz. Light Purple Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM859,Polar Camel 12 oz. Purple Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM860,Polar Camel 12 oz. Dark Gray Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM861,Polar Camel 12 oz. Navy Blue Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM862,Polar Camel 12 oz. Orange Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,59         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM863,Polar Camel 12 oz. Maroon Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,60         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM864,Polar Camel 12 oz. White Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,60         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM865,Polar Camel 12 oz. Green Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,60         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM866,Polar Camel 12 oz. Yellow Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,60         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM867,Polar Camel 12 oz. Coral Vacuum Insulated Stemless Wine Tumbler with Lid,24,8.8,7.15,6.85,6.5,0,0,CATALOG24,60         ,8.4,6.8,6.5,6.2,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM870,Polar Camel 12 oz. Black/Ghost Black Stemless Wine Tumbler,24,9.55,7.9,7.55,7.25,0,0,CATALOG24,0          ,9.1,7.5,7.2,6.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM871,Polar Camel 12 oz. White/Ghost Black Stemless Wine Tumbler,24,9.55,7.9,7.55,7.25,0,0,CATALOG24,0          ,9.1,7.5,7.2,6.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM880,Polar Camel 12 oz. Black/Rose Gold Stemless Wine Tumbler,24,9.55,7.9,7.55,7.25,0,0,CATALOG24,0          ,9.1,7.5,7.2,6.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM881,Polar Camel 12 oz. White/Rose Gold Stemless Wine Tumbler,24,9.55,7.9,7.55,7.25,0,0,CATALOG24,0          ,9.1,7.5,7.2,6.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM890,Polar Camel 12 oz. Black/Prism Stemless Wine Tumbler,24,9.55,7.9,7.55,7.25,0,0,CATALOG24,0          ,9.1,7.5,7.2,6.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM891,Polar Camel 12 oz. White/Prism Stemless Wine Tumbler,24,9.55,7.9,7.55,7.25,0,0,CATALOG24,0          ,9.1,7.5,7.2,6.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM941,Stainless Steel 14 oz. Polar Camel Pilsner w/Clear Lid,24,9.35,7.6,7.3,7,0,0,CATALOG24,53         ,8.9,7.25,6.95,6.65,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM942,Black 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,53         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM943,Red 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,53         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM944,Royal Blue 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,53         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM945,Pink 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,53         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM946,Teal 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,53         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM947,Light Blue 14oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,53         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM948,Light Purple 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,53         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM949,Purple 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM950,Polar Camel Dark Gray 14 oz. Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM951,Polar Camel Navy Blue 14 oz. Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM952,Orange 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM953,Maroon 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM954,White 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM955,Green 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM956,Yellow 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM957,Coral 14 oz. Polar Camel Pilsner with Clear Lid,24,9.95,8.3,7.95,7.6,0,0,CATALOG24,54         ,9.5,7.9,7.55,7.25,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM971,Polar Camel Stainless Steel 20 oz Pilsner with Clear Lid,24,10.6,8.95,8.6,8.3,0,0,CATALOG24,55         ,10.1,8.5,8.2,7.9,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM972,Polar Camel Black 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,55         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM973,Polar Camel Red 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,55         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM974,Polar Camel Royal Blue 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,55         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM975,Polar Camel Pink 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,55         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM976,Polar Camel Teal 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,55         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM977,Polar Camel Light Blue 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,55         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM978,Polar Camel Light Purple 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,55         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM979,Polar Camel Purple 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM980,Polar Camel Dark Gray 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM981,Polar Camel Navy Blue 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM982,Polar Camel Orange 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM983,Polar Camel Maroon 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM984,Polar Camel White 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM985,Polar Camel Green 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM986,Polar Camel Yellow 20 oz. Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM
+LTM987,Polar Camel Coral 20 oz. Polar Camel Pilsner with Clear Lid,24,11.3,9.55,9.25,8.95,0,0,CATALOG24,56         ,10.75,9.1,8.8,8.5,0,0,07/21/2025,Confirmed,Main Product,LTM

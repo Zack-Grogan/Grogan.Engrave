@@ -1,0 +1,7 @@
+SKU,NAME,CASE QTY,PRICE EACH,PRICE BREAK 1,PRICE BREAK 2,PRICE BREAK 3,PRICE BREAK 4,PRICE BREAK 5,CATALOG,PAGES,PREVIOUS PRICE,PREVIOUS PRICE BREAK 1,PREVIOUS PRICE BREAK 2,PREVIOUS PRICE BREAK 3,PREVIOUS PRICE BREAK 4,PREVIOUS PRICE BREAK 5,LAST PRICE CHANGE DATE,Verification_Status,Product_Category,Related_SKU_Prefix
+LWBL1,Replacement BPA Free Lid for all Polar Camel Water Bottles,1,2.25,2.25,2.25,2.25,0,0,CATALOG24,44         ,2.15,2.15,2.15,2.15,0,0,07/21/2025,Confirmed,Replacement Part,LWB
+LWBL2,Optional BPA Free Lug Lid for All Polar Camel Water Bottles,24,1.91,1.66,1.59,1.52,0,0,SUBCAT25,15         ,1.82,1.58,1.51,1.45,0,0,07/21/2025,Confirmed,Replacement Part,LWB
+LWBSTRW12,Replacement Straw for 12 oz Polar Camel Water Bottles,50,0.21,0.21,0,0,0,0,CATALOG24,44         ,0.196,0.196,0,0,0,0,07/21/2025,Confirmed,Replacement Part,LWB
+LWBSTRW20,Replacement Straw for 20 oz Polar Camel Water Bottles,50,0.22,0.22,0.22,0.22,0,0,CATALOG24,44         ,0.21,0.21,0.21,0.21,0,0,07/21/2025,Confirmed,Replacement Part,LWB
+LWBSTRW32,Replacement Straw for 30 oz. and 32 oz. Polar Camel Water Bottles,50,0.24,0.24,0.24,0.24,0,0,CATALOG24,44         ,0.23,0.23,0.23,0.23,0,0,07/21/2025,Confirmed,Replacement Part,LWB
+LWBSTRW40,Replacement Straw for 40 oz Polar Camel Water Bottles,50,0.25,0.25,0.25,0.25,0,0,CATALOG24,44         ,0.24,0.24,0.24,0.24,0,0,07/21/2025,Confirmed,Replacement Part,LWB

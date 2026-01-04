@@ -1,0 +1,24 @@
+SKU,NAME,CASE QTY,PRICE EACH,PRICE BREAK 1,PRICE BREAK 2,PRICE BREAK 3,PRICE BREAK 4,PRICE BREAK 5,CATALOG,PAGES,PREVIOUS PRICE,PREVIOUS PRICE BREAK 1,PREVIOUS PRICE BREAK 2,PREVIOUS PRICE BREAK 3,PREVIOUS PRICE BREAK 4,PREVIOUS PRICE BREAK 5,LAST PRICE CHANGE DATE,Verification_Status,Product_Category,Related_SKU_Prefix
+CRB101,Polar Camel Water Bottle Carabiner-Black,12,2.25,1.83,1.75,1.67,0,0,SUBCAT25,14         ,2.05,1.66,1.59,1.52,0,0,07/21/2025,Confirmed,Accessory,LWB
+CRB102,Polar Camel Water Bottle Carabiner-Gray,12,2.25,1.83,1.75,1.67,0,0,SUBCAT25,14         ,2.05,1.66,1.59,1.52,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB001,Black/White 20 and 12 oz. Polar Camel Water Bottle Boot,12,5.05,4,3.75,3.5,0,0,CATALOG24,43         ,4.85,3.85,3.6,3.35,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB002,Red/White 20 and 12 oz. Polar Camel Water Bottle Boot,12,5.05,4,3.75,3.5,0,0,CATALOG24,43         ,4.85,3.85,3.6,3.35,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB003,Blue/White 20 and 12 oz. Polar Camel Water Bottle Boot,12,5.05,4,3.75,3.5,0,0,CATALOG24,43         ,4.85,3.85,3.6,3.35,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB004,Navy Blue/White 20 and 12 oz. Polar Camel Water Bottle Boot,12,5.05,4,3.75,3.5,0,0,CATALOG24,43         ,4.85,3.85,3.6,3.35,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB051,White/Black 20 and 12 oz. Polar Camel Water Bottle Boot,12,5.05,4,3.75,3.5,0,0,CATALOG24,43         ,4.85,3.85,3.6,3.35,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB052,Pink/Black 20 and 12 oz. Polar Camel Water Bottle Boot,12,5.05,4,3.75,3.5,0,0,CATALOG24,43         ,4.85,3.85,3.6,3.35,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB053,Teal/Black 20 and 12 oz. Polar Camel Water Bottle Boot,12,5.05,4,3.75,3.5,0,0,CATALOG24,43         ,4.85,3.85,3.6,3.35,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB101,Black/White 32 oz. Polar Camel Water Bottle Boot,12,5.4,4.4,4.15,3.95,0,0,CATALOG24,43         ,5.2,4.25,4,3.8,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB102,Red/White 32 oz. Polar Camel Water Bottle Boot,12,5.4,4.4,4.15,3.95,0,0,CATALOG24,43         ,5.2,4.25,4,3.8,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB103,Blue/White 32 oz. Polar Camel Water Bottle Boot,12,5.4,4.4,4.15,3.95,0,0,CATALOG24,43         ,5.2,4.25,4,3.8,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB104,Navy Blue/White 32 oz. Polar Camel Water Bottle Boot,12,5.4,4.4,4.15,3.95,0,0,CATALOG24,43         ,5.2,4.25,4,3.8,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB151,White/Black 32 oz. Polar Camel Water Bottle Boot,12,5.4,4.4,4.15,3.95,0,0,CATALOG24,43         ,5.2,4.25,4,3.8,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB152,Pink/Black 32 oz. Polar Camel Water Bottle Boot,12,5.4,4.4,4.15,3.95,0,0,CATALOG24,43         ,5.2,4.25,4,3.8,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB153,Teal/Black 32 oz. Polar Camel Water Bottle Boot,12,5.4,4.4,4.15,3.95,0,0,CATALOG24,43         ,5.2,4.25,4,3.8,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB201,Black/White 40 oz. Polar Camel Water Bottle Boot,12,5.8,4.8,4.45,4.25,0,0,CATALOG24,43         ,5.6,4.6,4.3,4.1,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB202,Red/White 40 oz. Polar Camel Water Bottle Boot,12,5.8,4.8,4.45,4.25,0,0,CATALOG24,43         ,5.6,4.6,4.3,4.1,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB203,Blue/White 40 oz. Polar Camel Water Bottle Boot,12,5.8,4.8,4.45,4.25,0,0,CATALOG24,43         ,5.6,4.6,4.3,4.1,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB204,Navy Blue/White 40 oz. Polar Camel Water Bottle Boot,12,5.8,4.8,4.45,4.25,0,0,CATALOG24,43         ,5.6,4.6,4.3,4.1,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB251,White/Black 40 oz. Polar Camel Water Bottle Boot,12,5.8,4.8,4.45,4.25,0,0,CATALOG24,43         ,5.6,4.6,4.3,4.1,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB252,Pink/Black 40 oz. Polar Camel Water Bottle Boot,12,5.8,4.8,4.45,4.25,0,0,CATALOG24,43         ,5.6,4.6,4.3,4.1,0,0,07/21/2025,Confirmed,Accessory,LWB
+WBB253,Teal/Black 40 oz. Polar Camel Water Bottle Boot,12,5.8,4.8,4.45,4.25,0,0,CATALOG24,43         ,5.6,4.6,4.3,4.1,0,0,07/21/2025,Confirmed,Accessory,LWB
